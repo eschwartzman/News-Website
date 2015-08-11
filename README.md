@@ -1,0 +1,1 @@
+This is a news blog written in 2014 in PHP
